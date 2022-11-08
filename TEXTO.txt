@@ -1,0 +1,39 @@
+1) Que es ser autodidacta ?
+Ser autodidacta es ser esa persona que puede aprender por si mismo usando diferentes medios, por ejemplo 
+puede aprender por medios de comunicacion como internet libros y tener la capacidad de comprender los 
+diversos temas por si propios medios 
+
+
+2) invertigar que son matrices
+
+Las matrices pueden ser arreglos multidimensionales ya son estructuras de diversos similares y vectores
+de arreglos, tambien una matriz no es una serie de vectores o contenidos o es uno o es otro es decir una 
+matriz es un vector cuyas posiciones son otros vectores
+
+tambien:
+Una matriz es una secuencia de objetos del mismo tipo que ocupan un área contigua de memoria. 
+Las matrices tradicionales de estilo C son el origen de muchos errores, pero siguen siendo comunes,
+ especialmente en las bases de código anteriores
+
+por ejemplo tenemos
+
+* Declaraciones de pila 
+* Declaracione abiertas
+
+Tambien este concepto como arrays 
+
+3) Listar 3 fuentes de donde aprender a programar 
+
+este seria una pagina web la cual explica como utilizar C y sus diferentes funciones 
+http://programacion-de-lenguaje.blogspot.com/ 
+
+tambien exite un canal en  Youtube que da y explica paso a paso el uso de C y sus funciones 
+y diversos tipos de ventajas
+nombre del canal: 
+Programacion ATS
+
+tambien para poner en practica el idioma en ingles y poder extender el vocabulario 
+esta este canal
+freeCodeCamp.org  link del canal: https://www.youtube.com/c/Freecodecamp
+
+estos son unos de los ejemplos donde e podido lograr comprender y repasar ciertos problemas 
